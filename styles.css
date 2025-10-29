@@ -1,0 +1,28 @@
+p{
+	color: orange;
+}
+h1{
+    color: green;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: red;
+}
+ul1{
+    color: rgb(41, 208, 22);
+}
+ol{
+    color: #f821df;
+}
+p{
+    width: 300px;
+}
+.custom-size {
+	width: 400px;
+	height: 300px;
+}
+h1 {
+	text-align: right;
+}
